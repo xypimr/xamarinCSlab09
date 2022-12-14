@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:xamarinCSlab09"
+             x:Class="xamarinCSlab09.MainPage">
+
+    <StackLayout Padding ="10,70,10,10">
+        <Frame BackgroundColor="#c7c5c5" Padding="20" CornerRadius="13">
+            <Label Text="Погода в текущем городе:" HorizontalTextAlignment="Center" TextColor="DimGray" FontSize="25"
+                   FontAttributes="Bold"/>
+        </Frame>
+        <Frame BackgroundColor="#ff9eb1" Padding="30" Margin="0,15,0,0" CornerRadius="10">
+            <Label x:Name="Info" Text="Выбери город из списка и здесь появится информация о погоде в нем" HorizontalTextAlignment="Center" TextColor="DimGray" 
+                   FontSize="25"/>
+        </Frame>
+        <Frame BackgroundColor="#c7c5c5" Margin="0,30,0,10" CornerRadius="10">
+            <Label Text="Выберете город:" HorizontalTextAlignment="Center" TextColor="DimGray" FontSize="25"
+                   FontAttributes="Bold"/>
+        </Frame>
+        <ScrollView>
+            <StackLayout x:Name="list">
+                
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+    
+
+</ContentPage>

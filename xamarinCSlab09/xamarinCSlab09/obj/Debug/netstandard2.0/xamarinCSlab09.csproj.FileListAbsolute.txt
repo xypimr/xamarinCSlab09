@@ -1,0 +1,13 @@
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/bin/Debug/netstandard2.0/xamarinCSlab09.deps.json
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/bin/Debug/netstandard2.0/xamarinCSlab09.dll
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/bin/Debug/netstandard2.0/xamarinCSlab09.pdb
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.csproj.AssemblyReference.cache
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.AssemblyInfoInputs.cache
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.AssemblyInfo.cs
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.csproj.CoreCompileInputs.cache
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.dll
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/obj/Debug/netstandard2.0/xamarinCSlab09.pdb
+/Users/oldmash/RiderProjects/labsC#/xamarinCSlab09/xamarinCSlab09/xamarinCSlab09/bin/Debug/netstandard2.0/city.txt
